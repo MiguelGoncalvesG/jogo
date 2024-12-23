@@ -6,6 +6,7 @@
 
 int main(void)
 {
+    int j;
     // Initialization
     //--------------------------------------------------------------------------------------
     InitWindow(ScreenWidth, ScreenHeight, "INF MAN - Menu");
